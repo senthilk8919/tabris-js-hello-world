@@ -1,4 +1,5 @@
 import {contentView, TextInput, WebView} from 'tabris';
+import * as tabris from 'tabris';
 
 contentView.append(
   <$>
